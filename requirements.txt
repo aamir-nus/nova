@@ -1,0 +1,53 @@
+#python 3.10.12
+pandas < 2
+nltk
+
+openai
+
+sentence-transformers
+torch
+
+xgboost
+
+pydantic
+#azure-storage-blob
+#azure-storage-queue
+
+aiohttp
+nest_asyncio
+
+setfit
+transformers #eval_strategy hotfix
+litellm==1.40.25
+tenacity==8.2.3
+
+tensorizer
+vllm==0.6.2
+spacy<3.9
+
+xlrd==2.0.1 #to support reading excel from UI
+openpyxl==3.1.4 #to support reading excel from UI
+
+rank_bm25
+streamlit
+
+pypdf
+pyvis
+
+einops
+accelerate
+bitsandbytes
+
+langchain
+langchain-community
+
+llama_index
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+llama-index-llms-gemini
+google-generativeai
+
+llama-index-llms-anthropic
+llama-index-retrievers-bm25
+llama-index-postprocessor-colbert-rerank
+stemmer

@@ -1,2 +1,3 @@
 # nova
-hybrid graph + vector index based search engine, extensible to a RAG
+
+simple search engine to index and re-rank documents depending on query
